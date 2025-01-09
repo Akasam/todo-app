@@ -81,11 +81,11 @@
 ## Notation
 
 Pour chaque section:
-- ++ : Excellent
-- + : Bon
-- = : Correct
-- - : Insuffisant
-- -- : Très insuffisant
+- '++' : Excellent
+- '+'  : Bon
+- '='  : Correct
+- '-'  : Insuffisant
+- '--' : Très insuffisant
 
 ## Commentaires Généraux
 - Points forts :
